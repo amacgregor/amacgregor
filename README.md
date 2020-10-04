@@ -12,6 +12,10 @@
 
 ## Technologies
 
+## Misc
+[![trophy](https://github-profile-trophy.vercel.app/?username=amacgregor)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## GitHub Stats
 
 [![amacgregor's github stats](https://github-readme-stats.vercel.app/api?username=amacgregor&theme=synthwave&count_private=true&hide=contribs)](https://github.com/amacgregor/github-readme-stats)
