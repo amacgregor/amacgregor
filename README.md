@@ -6,9 +6,10 @@
 <a href="https://www.linkedin.com/in/allanmacgregor/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
-
 ## Blog & Writing
+
+- [5 Reasons to love Elixir](https://allanmacgregor.com/posts/5-reasons-to-love-elixir)
+- [Digital Garden](https://publish.obsidian.md/allanmacgregor/)
 
 ## Technologies
 
