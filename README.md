@@ -11,14 +11,13 @@
 - [5 Reasons to love Elixir](https://allanmacgregor.com/posts/5-reasons-to-love-elixir)
 - [Digital Garden](https://publish.obsidian.md/allanmacgregor/)
 
-## Technologies
+
+## Some Stats
+
+| Metrics                             |          Technologies               |
+| :---------------------------------: | :---------------------------------: |
+|[![GitHub metrics](https://metrics.lecoq.io/amacgregor?languages=1&isocalendar=1&followup=1&pagespeed=1)](https://github.com/lowlighter/metrics) | |
+
 
 ## Misc
 [![trophy](https://github-profile-trophy.vercel.app/?username=amacgregor&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## GitHub Stats
-
-| Metrics                             | Commit Graph                        |
-| :---------------------------------: | :---------------------------------: |
-|[![GitHub metrics](https://metrics.lecoq.io/amacgregor?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics) | [![GitHub metrics](https://metrics.lecoq.io/amacgregor?languages=1&isocalendar=0&followup=1)](https://github.com/lowlighter/metrics)|
