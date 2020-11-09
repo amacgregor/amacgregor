@@ -18,4 +18,7 @@
 
 
 ## GitHub Stats
-[![GitHub metrics](https://metrics.lecoq.io/amacgregor?languages=1&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics)
+
+| Metrics                             | Commit Graph                        |
+| :---------------------------------: | :---------------------------------: |
+|[![GitHub metrics](https://metrics.lecoq.io/amacgregor?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics) | [![GitHub metrics](https://metrics.lecoq.io/amacgregor?languages=1&isocalendar=0&followup=1)](https://github.com/lowlighter/metrics)|
