@@ -9,6 +9,7 @@
 ## Blog & Writing
 
 - [5 Reasons to love Elixir](https://allanmacgregor.com/posts/5-reasons-to-love-elixir)
+- [Circuit Breaker Pattern in Elixir](https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir)
 - [Digital Garden](https://publish.obsidian.md/allanmacgregor/)
 
 
