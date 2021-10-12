@@ -1,9 +1,10 @@
 ### Hi there 👋
 <p align='center'>
-<a href="https://dev.to/allanmacgregor"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/allanmacgregor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/allanmacgregor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/allanmacgregor/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://dev.to/allanmacgregor"><img src="https://wakatime.com/badge/user/ca412161-1fa1-4b0d-be0c-dc6b2126de3e.svg"></a>&nbsp;&nbsp;
+<!--   <a href="https://dev.to/allanmacgregor"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/allanmacgregor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"> </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/allanmacgregor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/allanmacgregor/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> -->
 </p>
 
 ## Blog & Writing
