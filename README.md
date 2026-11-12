@@ -26,7 +26,7 @@ Technical writing on Elixir, system design, and engineering leadership:
 - [SemaphoreCI](https://semaphoreci.com/author/allan-macgregor) — CI/CD & DevOps
 - [Personal blog](https://allanmacgregor.com)
 
-| <a href="https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir"><img width="300" src="https://allanmacgregor.com/images/cards/circuit-breaker-pattern-in-elixir-bc016ca6259febf694545974bb0b22b7.png?vsn=d"></a> | <a href="https://allanmacgregor.com/posts/5-reasons-to-love-elixir"><img width="300" src="https://allanmacgregor.com/images/cards/5-reasons-to-love-elixir-6f726dd6a5964361a946cf98b649d482.png?vsn=d"></a> | <a href="https://allanmacgregor.com/posts/wtf-is-flow-based-programming"><img width="300" src="https://allanmacgregor.com/images/cards/wtf-is-flow-based-programming-a48a5afbc6929ea041112fae538e652a.png?vsn=d"></a> |
+| <a href="https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir"><img width="300" alt="Circuit Breaker Pattern in Elixir" src="https://allanmacgregor.com/images/cards/circuit-breaker-pattern-in-elixir.png"></a> | <a href="https://allanmacgregor.com/posts/5-reasons-to-love-elixir"><img width="300" alt="5 Reasons to Love Elixir" src="https://allanmacgregor.com/images/cards/5-reasons-to-love-elixir.png"></a> | <a href="https://allanmacgregor.com/posts/wtf-is-flow-based-programming"><img width="300" alt="WTF is Flow-Based Programming" src="https://allanmacgregor.com/images/cards/wtf-is-flow-based-programming.png"></a> |
 |---|---|---|
 
 ## Humi acquisition coverage
