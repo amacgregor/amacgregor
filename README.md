@@ -1,44 +1,43 @@
-### Hi, I'm Allan 👋
+# Allan MacGregor
 
-**Two decades turning hard technical bets into shipped products — and a $140M+ CAD exit.**
+I build engineering teams and dependable software.
+I'm CTO at [LiORA](https://joinliora.com), developing an Environmental Intelligence Platform alongside science and hardware teams.
+Previously, I led technology and product as CTPO at Humi through its [acquisition by Employment Hero](https://betakit.com/humi-acquired-by-australian-hr-software-company-employment-hero/).
+I write [The Pragmatic CTO](https://www.thepragmaticcto.com), have published with Packt, and still design and ship software.
 
-I build engineering teams, products, and systems that survive scale. Today I'm **CTO at [LiORA](https://joinliora.com)**, building the world's first Environmental Intelligence Platform — deep tech where software ships alongside science teams and hardware.
+## Selected projects
 
-Before that, as **CTPO at [Humi](https://humi.ca)**, I led technology and product through its **$140M+ CAD acquisition** by Employment Hero — a Phoenix/Elixir HRTech platform serving thousands of Canadian businesses and processing over $2B CAD in payroll annually. I've been building software professionally for two decades across eCommerce, FinTech, and HRTech, and I care about sustainable growth: teams that ship reliably without burning out.
+- **[Bloccs](https://github.com/Bloccs/bloccs)**: Typed, supervised dataflow on the BEAM that compiles TOML graphs into Broadway/GenStage supervision trees.
+  [![Bloccs package version on Hex](https://img.shields.io/hexpm/v/bloccs.svg?label=bloccs&color=59636e)](https://hex.pm/packages/bloccs) · [Docs](https://hexdocs.pm/bloccs)
+- **[Sift](https://github.com/amacgregor/sift)**: A PR triage and review harness that runs heuristics or LLM strategies against code diffs.
+- **[ShipLog MCP](https://github.com/amacgregor/shiplog-mcp)**: Listing metadata for ShipLog’s hosted feedback and changelog MCP server; the server implementation lives outside this repository. [Connection guide](https://shiplog.ca/for/ai-agents)
 
-<p align='center'>
-  <a href="https://dev.to/allanmacgregor"><img src="https://wakatime.com/badge/user/ca412161-1fa1-4b0d-be0c-dc6b2126de3e.svg"></a>&nbsp;&nbsp;
+I also build [StructPR](https://structpr.dev), for reviewing changes by business context and risk, and previously built and sold Siteguardian. [More projects](https://allanmacgregor.com/projects).
+
+## Selected writing
+
+- **[Dopamine, Debugging, and the Dopamine-Loss of AI-Assisted Coding](https://allanmacgregor.com/posts/how-ai-assisted-coding-changes-the-feedback-loop)** explores how AI-assisted coding changes the feedback loop of debugging, learning and maintaining expertise.
+- **[Reading the Supervision Tree Contract, Key by Key](https://allanmacgregor.com/posts/otp-supervision-trees-child-specs-and-strategies)** digs into OTP child specs, restart strategies and failure boundaries.
+- **[The Three Seats of Engineering Leadership](https://www.forbes.com/sites/forbestechcouncil/2018/01/16/the-three-seats-of-engineering-leadership/)** is my Forbes Technology Council contribution on CTO, VP and director responsibilities.
+
+[Technical blog](https://allanmacgregor.com/posts) · [The Pragmatic CTO](https://www.thepragmaticcto.com) · [DEV](https://dev.to/allanmacgregor)
+
+### Writing published by
+
+<p>
+  <a href="https://blog.appsignal.com/authors/allan-macgregor.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/publications/appsignal-muted-dark.svg"><img src="assets/publications/appsignal-muted-light.svg" width="120" height="40" alt="AppSignal: articles by Allan MacGregor"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/publications/codecov-muted-dark.svg"><img src="assets/publications/codecov-muted-light.svg" width="112" height="40" alt="Codecov: Allan MacGregor on TypeScript code coverage"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://semaphore.io/blog/data-pipelines-elixir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/publications/semaphore-muted-dark.svg"><img src="assets/publications/semaphore-muted-light.svg" width="159" height="40" alt="Semaphore: Allan MacGregor on creating data pipelines with Elixir"></picture></a>
 </p>
 
-## Currently building
+[AppSignal](https://blog.appsignal.com/authors/allan-macgregor.html) · [Codecov](https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/) · [Semaphore](https://semaphore.io/blog/data-pipelines-elixir) · [SitePoint](https://www.sitepoint.com/author/amacgregor/) · [Full publications](https://allanmacgregor.com/publications)
 
-- **[Bloccs](https://github.com/bloccs)** — declarative orchestration for AI agents on the BEAM
-- **[The Pragmatic CTO](https://thepragmaticcto.com)** — writing on engineering and product leadership, and how AI tools are reshaping how we build software
-- Earlier: built and sold **[Siteguardian.dev](https://siteguardian.dev)**, an SSL & domain monitoring service
+### Book authorship
 
-## Writing
-
-Technical writing on Elixir, system design, and engineering leadership:
-
-- [The Pragmatic CTO](https://thepragmaticcto.com) — engineering & product leadership
-- [AppSignal](https://blog.appsignal.com/authors/allan-macgregor.html) — Elixir & Phoenix
-- [Dev.to](https://dev.to/allanmacgregor) — various technical topics
-- [SemaphoreCI](https://semaphoreci.com/author/allan-macgregor) — CI/CD & DevOps
-- [Personal blog](https://allanmacgregor.com)
-
-| <a href="https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir"><img width="300" alt="Circuit Breaker Pattern in Elixir" src="https://allanmacgregor.com/images/cards/circuit-breaker-pattern-in-elixir.png"></a> | <a href="https://allanmacgregor.com/posts/5-reasons-to-love-elixir"><img width="300" alt="5 Reasons to Love Elixir" src="https://allanmacgregor.com/images/cards/5-reasons-to-love-elixir.png"></a> | <a href="https://allanmacgregor.com/posts/wtf-is-flow-based-programming"><img width="300" alt="WTF is Flow-Based Programming" src="https://allanmacgregor.com/images/cards/wtf-is-flow-based-programming.png"></a> |
-|---|---|---|
-
-## Humi acquisition coverage
-
-- [BetaKit: Humi acquired by Australian HR software company Employment Hero](https://betakit.com/humi-acquired-by-australian-hr-software-company-employment-hero/)
-- [Business Wire: official announcement](https://www.businesswire.com/news/home/20250108513763/en/Humi-Acquired-by-Employment-Hero-to-Provide-a-Comprehensive-and-Localized-Solution-for-Canadian-Businesses)
-- [Fasken: official deal record](https://www.fasken.com/en/solution/clientwork/2025/01/humi-announces-acquisition-by-employment-hero)
+**[Magento PHP Developer's Guide](https://allanmacgregor.com/books)**, published by Packt. A guide to Magento's architecture and extension development from my work in e-commerce.
 
 ## Connect
 
-- [Website](https://allanmacgregor.com)
-- [LinkedIn](https://www.linkedin.com/in/allanmacgregor/)
-- [X/Twitter](https://x.com/allanmacgregor)
-- [Mastodon](https://functional.cafe/@amacgregor)
-- [YouTube](https://www.youtube.com/@AllanMacGregor)
+[Website & background](https://allanmacgregor.com/about) · [LinkedIn](https://www.linkedin.com/in/allanmacgregor/) · [X](https://x.com/allanmacgregor) · [Mastodon](https://functional.cafe/@amacgregor) · [YouTube](https://www.youtube.com/@AllanMacGregor)
