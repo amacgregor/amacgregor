@@ -5,6 +5,8 @@ I'm CTO at [LiORA](https://joinliora.com), developing an Environmental Intellige
 Previously, I led technology and product as CTPO at Humi through its [acquisition by Employment Hero](https://betakit.com/humi-acquired-by-australian-hr-software-company-employment-hero/).
 I write [The Pragmatic CTO](https://www.thepragmaticcto.com), have published with Packt, and still design and ship software.
 
+I also mentor founders through [Moonshots’ Orion Collective](https://www.moonshots.ca/mentors.html).
+
 ## Selected projects
 
 - **[Bloccs](https://github.com/Bloccs/bloccs)**: Typed, supervised dataflow on the BEAM that compiles TOML graphs into Broadway/GenStage supervision trees.
